@@ -1,0 +1,1 @@
+from .moySklad import getAllKontragents, addKontragent, getAllKontragentsToday, addOrder, getAllOrders
