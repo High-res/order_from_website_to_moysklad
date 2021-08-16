@@ -1,1 +1,1 @@
-# order_from_website_to_moysklad
+# Order from WordPress to MoySklad.ru website
