@@ -3,7 +3,7 @@ import requests
 
 
 def getOnMello() :
-    r = requests.get('https://mello.kz/db_mello.php')
+    r = requests.get('db_mello.php')
     messages = r.content
     return messages
 
